@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">booking</string>
+    <string name="FindRoomButton">Find Rooms!</string>
+    <string name="studentIDLabel">Student ID</string>
+    <string name="dateLabel">Date</string>
+    <string name="locationLabel">Current Location</string>
+    <string name="numPaxLabel">Number of Pax</string>
+    <string name="Title">SUTD Room Booking Portal</string>
+
+    <string-array name="Locations">
+        <item>Blk 1</item>
+        <item>Blk 2</item>
+        <item>Blk 3</item>
+    </string-array>
+</resources>
